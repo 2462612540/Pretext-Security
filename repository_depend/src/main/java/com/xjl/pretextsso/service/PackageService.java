@@ -7,4 +7,5 @@ package com.xjl.pretextsso.service;
  * @Created by xjl
  */
 public interface PackageService {
+
 }
