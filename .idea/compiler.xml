@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="System_imges_security" />
+        <module name="Repository_code_security" />
+        <module name="Repository_dependency_security" />
+        <module name="System_txt_security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Repository_code_security" target="11" />
+      <module name="Repository_dependency_security" target="11" />
+      <module name="System_imges_security" target="11" />
+      <module name="System_txt_security" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

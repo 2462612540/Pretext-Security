@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb80960c-814c-4339-975f-cd1e5d303a99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Repository_code_security/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_code_security/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_code_security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_code_security/src/main/java/com/zhaungxiaoyan/repository/code/RepositoryCodeSecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_code_security/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_code_security/src/test/java/com/zhaungxiaoyan/repository/code/RepositoryCodeSecurityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_dependency_security/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_dependency_security/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_dependency_security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_dependency_security/src/main/java/com/zhuangxiaoyan/repository/dependency/RepositoryDependencySecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_dependency_security/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repository_dependency_security/src/test/java/com/zhuangxiaoyan/repository/dependency/RepositoryDependencySecurityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_imges_security/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_imges_security/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_imges_security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_imges_security/src/main/java/com/zhuangxiaoyan/system/imges/SystemImgesSecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_imges_security/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_imges_security/src/test/java/com/zhuangxiaoyan/system/imges/SystemImgesSecurityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_txt_security/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_txt_security/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_txt_security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_txt_security/src/main/java/com/zhuangxiaoyan/system/txt/SystemTxtSecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_txt_security/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System_txt_security/src/test/java/com/zhuangxiaoyan/system/txt/SystemTxtSecurityApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven_Repository" />
+        <option name="userSettingsFile" value="D:\Maven_Repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1zixMhXp1PwDdn5leQi70MFzykQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.AccountConfigurable" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.RepositoryDependencySecurityApplication">
+    <configuration name="RepositoryCodeSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Repository_code_security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhaungxiaoyan.repository.code.RepositoryCodeSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoryDependencySecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Repository_dependency_security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhuangxiaoyan.repository.dependency.RepositoryDependencySecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemImgesSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="System_imges_security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhuangxiaoyan.system.imges.SystemImgesSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemTxtSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="System_txt_security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhuangxiaoyan.system.txt.SystemTxtSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb80960c-814c-4339-975f-cd1e5d303a99" name="Default Changelist" comment="" />
+      <created>1634644663035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634644663035</updated>
+      <workItem from="1634644665807" duration="908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634644693134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1634644693134" />
+    <state x="178" y="114" key="new project wizard" timestamp="1634645513757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="114" key="new project wizard/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1634645513757" />
+  </component>
+</project>

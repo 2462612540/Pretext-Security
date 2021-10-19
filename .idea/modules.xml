@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pretext-Security.iml" filepath="$PROJECT_DIR$/.idea/Pretext-Security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repository_code_security/Repository_code_security.iml" filepath="$PROJECT_DIR$/Repository_code_security/Repository_code_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repository_dependency_security/Repository_dependency_security.iml" filepath="$PROJECT_DIR$/Repository_dependency_security/Repository_dependency_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System_imges_security/System_imges_security.iml" filepath="$PROJECT_DIR$/System_imges_security/System_imges_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System_txt_security/System_txt_security.iml" filepath="$PROJECT_DIR$/System_txt_security/System_txt_security.iml" />
+    </modules>
+  </component>
+</project>
